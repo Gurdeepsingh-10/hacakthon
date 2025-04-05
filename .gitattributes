@@ -1,0 +1,4 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+investment_model.pkl filter=lfs diff=lfs merge=lfs -text
+scalar.pkl filter=lfs diff=lfs merge=lfs -text
+similarity_matrix.pkl filter=lfs diff=lfs merge=lfs -text
